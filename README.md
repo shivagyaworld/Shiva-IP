@@ -43,7 +43,6 @@ $ ls
 ```
 $ python Shiva-IP.py -v (your victim ip here)
 ```
-ex:- python Shiva-IP.py -v 127.0,0.1
 
 Well, You got the victim IP.
 
