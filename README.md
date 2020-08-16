@@ -1,6 +1,6 @@
 
 # Shiva-IP
-This Tool is made for ip tracking.
+Shiva-IP is a simply python Tool, which can be used to Ip lookup and to get information of perticualr target Ip. This tool works on both rooted device and Non-rooted device.
 
 ### Shiva-IP is available for
 
