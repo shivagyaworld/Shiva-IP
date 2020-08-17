@@ -1,5 +1,8 @@
 
 # Shiva-IP
+
+![Shiva-IP](https://github.com/shivagyaworld/Shiva-IP/blob/master/Shiva-IP.jpg)
+
 Shiva-IP is a simply python Tool, which can be used to Ip lookup and to get information of perticualr target Ip. This tool works on both rooted device and Non-rooted device.
 
 ### Shiva-IP is available for
