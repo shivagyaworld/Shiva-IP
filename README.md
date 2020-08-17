@@ -54,6 +54,9 @@ https://www.youtube.com/channel/UCiSYeCHlYCeEQ5UYy30Hs9w
 
 ### Chekout our website 
 https://shivagyaworld.blogspot.com
+
+### PayPal Donation
+https://www.paypal.me/Gyaneshmaurya
      
 ### Warning
 
