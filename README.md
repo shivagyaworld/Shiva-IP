@@ -44,7 +44,7 @@ $ cd Shiva-IP
 $ ls
 ```
 ```
-$ python Shiva-IP.py -v (your victim ip here)
+$ python shiva-ip.py -v (your victim ip here)
 ```
 
 Well, You got the victim IP.
